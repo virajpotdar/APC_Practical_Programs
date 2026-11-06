@@ -1,0 +1,12 @@
+text = "  python programming  "
+print("Original:", text)
+print("upper:", text.upper())
+print("lower:", text.lower())
+print("title:", text.title())
+print("capitalize:", text.capitalize())
+print("strip:", text.strip())
+print("replace:", text.replace("python", "Java"))
+print("find:", text.find("programming"))
+print("count:", text.count("m"))
+print("startswith:", text.strip().startswith("python"))
+print("split:", text.split())
